@@ -85,11 +85,11 @@ header .row .bgContents .button2:hover{
         position:relative;
         right:0px;
         top: 0;
-        width:100px;
+        
     }
     .navButton{
         display: inline-block;
-        width:150px;
+        width:100px;
     }
     .myLogo{
         font-family: 'MonteCarlo', cursive;
